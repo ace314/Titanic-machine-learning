@@ -1,7 +1,7 @@
 # Titanic-machine-learning
 This jupyter notebook includes my thinking process for the famous Kaggle competition about Titanic data set: https://www.kaggle.com/competitions/titanic/overview
 
-There are detailed step-by-step descriptions icluding feature engineering and model building.
+There are detailed step-by-step descriptions including feature engineering and model building.
 
 ## Result for the common classifiers in scikit-learn
 The final results using test train split with test size = 0.3:
