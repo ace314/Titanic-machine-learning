@@ -6,7 +6,7 @@ There are detailed step-by-step descriptions including feature engineering and m
 ## Result for the common classifiers in scikit-learn
 The final results for different classifiers:
 
-| Model | Accuracy |
+| Model | Accuracy on test data set |
 | --- | --- |
 | Logistic regression (LR) | 0.734450 |
 | Linear discriminant analysis (LDA) | 0.755981 |
