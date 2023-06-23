@@ -16,5 +16,3 @@ The final results for different classifiers:
 | Support vector machine (SVM) | 0.760766 |
  <br />
  <br />
- 
-![download](https://github.com/ace314/Titanic-machine-learning/assets/26135571/70c556e6-fd6f-4806-bb1f-ad835fdc6c47)
