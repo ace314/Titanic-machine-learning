@@ -1,20 +1,18 @@
 # Titanic-machine-learning
-This jupyter notebook includes my thinking process for the famous Kaggle competition: https://www.kaggle.com/competitions/titanic/overview
+This jupyter notebook includes my thinking process for the famous Kaggle competition about Titanic data set: https://www.kaggle.com/competitions/titanic/overview
 
-There are detailed step-by-step descriptions icluding feature engineering and model building.
+There are detailed step-by-step descriptions including feature engineering and model building.
 
 ## Result for the common classifiers in scikit-learn
-The final results using test train split with test size = 0.3:
+The final results for different classifiers:
 
-| Model | Accuracy (std) |
+| Model | Accuracy on test data set |
 | --- | --- |
-| Logistic regression (LR) | 0.972734 (0.020390) |
-| Linear discriminant analysis (LDA) | 0.963159 (0.020246) |
-| K-th nearest neighbors (KNN) | 0.897389 (0.047408) |
-| Decision tree (CART) | 0.990348 (0.010684) |
-| Naive Bayes (NB) | 0.837916 (0.042133) |
-| Support vector machine (SVM) | 0.976037 (0.020410) |
+| Logistic regression (LR) | 0.734450 |
+| Linear discriminant analysis (LDA) | 0.755981 |
+| K-th nearest neighbors (KNN) | 0.765550 |
+| Decision tree (CART) | 0.705742 |
+| Naive Bayes (NB) | 0.751196 |
+| Support vector machine (SVM) | 0.760766 |
  <br />
  <br />
- 
-![download](https://github.com/ace314/Titanic-machine-learning/assets/26135571/70c556e6-fd6f-4806-bb1f-ad835fdc6c47)
